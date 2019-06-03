@@ -1,7 +1,7 @@
 # Iterative Sorting Algorithms
 
 ## Insertion Sort
-Think back to class or team picture day. Everyone stands in a line facing the photographer. Starting at the left-hand side of the line, the photographer checks to make sure each person is taller than the person next to them. If they are shorter, the photographer pulls them out and shifts people over to the right until he or she finds the right spot for this person. They then insert them back into the line. This process repeats until the photographer reaches the last person on the right-hand side, who must be the tallest person in the group. This is ***Insertion Sort***.
+Think back to class or team picture day. Everyone stands in a line facing the photographer. Starting at the left-hand side of the line, the photographer checks to make sure each person is taller than the person next to them. If they are shorter, the photographer pulls them out and shifts people over to the right until he or she finds the right spot for this person. They then insert them back into the line. This process repeats until the photographer reaches the last person on the right-hand side, who must be the tallest person in the group. This is ***Insertion Sort***. 
 
 [(VIDEO) Insert-sort with Romanian folk dance](https://www.youtube.com/watch?v=ROalU379l3U) 
 
@@ -31,7 +31,7 @@ The answer to the question, "Is ***Insertion Sort*** an efficient algorithm?" is
 ## Bubble Sort
 In **Bubble Sort**, we make a series of swaps between adjacent elements, gradually moving larger elements towards the end of the array (or _bubbling_ larger elements up).
 
-### Algorithm
+### Algorithm                        
 1. Loop through your array
     - Compare each element to its neighbor
     - If elements in wrong position (relative to each other, swap them)
